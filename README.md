@@ -2171,3 +2171,4 @@ Signed,
 - Nikolaos Dimopoulos ([@niden](https://github.com/niden)), Phalcon core team member, USA
 - Pascal Iske ([@pascaliske](https://github.com/pascaliske)), TypeScript / JavaScript Developer, Germany
 - Rohit Ashiwal ([@r1walz](https://github.com/r1walz)), Android Developer at IIT Roorkee
+- Manish Pal ([@Manish6858](https://github.com/Manish6858)), Android Developer at Intouch Quality Services (P) Ltd.
